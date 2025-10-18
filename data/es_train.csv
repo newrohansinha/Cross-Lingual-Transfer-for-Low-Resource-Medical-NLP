@@ -1,0 +1,121 @@
+tokens,labels
+El paciente tiene diabetes mellitus,O O O B-ENT I-ENT
+Se prescribió ibuprofeno 200 mg,O O B-ENT O O
+Presenta dolor torácico y fiebre,O B-ENT I-ENT O B-ENT
+Alergia a penicilina confirmada,B-ENT O B-ENT O
+Se indicó radiografía de tórax,O O B-ENT O B-ENT
+Hipertensión controlada con losartán,B-ENT O O B-ENT
+Glucosa en sangre elevada,B-ENT O B-ENT B-ENT
+Se administra paracetamol cada ocho horas,O O B-ENT O O O
+Antecedente de asma infantil,O O B-ENT B-ENT
+Ecografía abdominal solicitada,B-ENT B-ENT O
+El paciente tiene diabetes mellitus,O O O B-ENT I-ENT
+Se prescribió ibuprofeno 200 mg,O O B-ENT O O
+Presenta dolor torácico y fiebre,O B-ENT I-ENT O B-ENT
+Alergia a penicilina confirmada,B-ENT O B-ENT O
+Se indicó radiografía de tórax,O O B-ENT O B-ENT
+Hipertensión controlada con losartán,B-ENT O O B-ENT
+Glucosa en sangre elevada,B-ENT O B-ENT B-ENT
+Se administra paracetamol cada ocho horas,O O B-ENT O O O
+Antecedente de asma infantil,O O B-ENT B-ENT
+Ecografía abdominal solicitada,B-ENT B-ENT O
+El paciente tiene diabetes mellitus,O O O B-ENT I-ENT
+Se prescribió ibuprofeno 200 mg,O O B-ENT O O
+Presenta dolor torácico y fiebre,O B-ENT I-ENT O B-ENT
+Alergia a penicilina confirmada,B-ENT O B-ENT O
+Se indicó radiografía de tórax,O O B-ENT O B-ENT
+Hipertensión controlada con losartán,B-ENT O O B-ENT
+Glucosa en sangre elevada,B-ENT O B-ENT B-ENT
+Se administra paracetamol cada ocho horas,O O B-ENT O O O
+Antecedente de asma infantil,O O B-ENT B-ENT
+Ecografía abdominal solicitada,B-ENT B-ENT O
+El paciente tiene diabetes mellitus,O O O B-ENT I-ENT
+Se prescribió ibuprofeno 200 mg,O O B-ENT O O
+Presenta dolor torácico y fiebre,O B-ENT I-ENT O B-ENT
+Alergia a penicilina confirmada,B-ENT O B-ENT O
+Se indicó radiografía de tórax,O O B-ENT O B-ENT
+Hipertensión controlada con losartán,B-ENT O O B-ENT
+Glucosa en sangre elevada,B-ENT O B-ENT B-ENT
+Se administra paracetamol cada ocho horas,O O B-ENT O O O
+Antecedente de asma infantil,O O B-ENT B-ENT
+Ecografía abdominal solicitada,B-ENT B-ENT O
+El paciente tiene diabetes mellitus,O O O B-ENT I-ENT
+Se prescribió ibuprofeno 200 mg,O O B-ENT O O
+Presenta dolor torácico y fiebre,O B-ENT I-ENT O B-ENT
+Alergia a penicilina confirmada,B-ENT O B-ENT O
+Se indicó radiografía de tórax,O O B-ENT O B-ENT
+Hipertensión controlada con losartán,B-ENT O O B-ENT
+Glucosa en sangre elevada,B-ENT O B-ENT B-ENT
+Se administra paracetamol cada ocho horas,O O B-ENT O O O
+Antecedente de asma infantil,O O B-ENT B-ENT
+Ecografía abdominal solicitada,B-ENT B-ENT O
+El paciente tiene diabetes mellitus,O O O B-ENT I-ENT
+Se prescribió ibuprofeno 200 mg,O O B-ENT O O
+Presenta dolor torácico y fiebre,O B-ENT I-ENT O B-ENT
+Alergia a penicilina confirmada,B-ENT O B-ENT O
+Se indicó radiografía de tórax,O O B-ENT O B-ENT
+Hipertensión controlada con losartán,B-ENT O O B-ENT
+Glucosa en sangre elevada,B-ENT O B-ENT B-ENT
+Se administra paracetamol cada ocho horas,O O B-ENT O O O
+Antecedente de asma infantil,O O B-ENT B-ENT
+Ecografía abdominal solicitada,B-ENT B-ENT O
+El paciente tiene diabetes mellitus,O O O B-ENT I-ENT
+Se prescribió ibuprofeno 200 mg,O O B-ENT O O
+Presenta dolor torácico y fiebre,O B-ENT I-ENT O B-ENT
+Alergia a penicilina confirmada,B-ENT O B-ENT O
+Se indicó radiografía de tórax,O O B-ENT O B-ENT
+Hipertensión controlada con losartán,B-ENT O O B-ENT
+Glucosa en sangre elevada,B-ENT O B-ENT B-ENT
+Se administra paracetamol cada ocho horas,O O B-ENT O O O
+Antecedente de asma infantil,O O B-ENT B-ENT
+Ecografía abdominal solicitada,B-ENT B-ENT O
+El paciente tiene diabetes mellitus,O O O B-ENT I-ENT
+Se prescribió ibuprofeno 200 mg,O O B-ENT O O
+Presenta dolor torácico y fiebre,O B-ENT I-ENT O B-ENT
+Alergia a penicilina confirmada,B-ENT O B-ENT O
+Se indicó radiografía de tórax,O O B-ENT O B-ENT
+Hipertensión controlada con losartán,B-ENT O O B-ENT
+Glucosa en sangre elevada,B-ENT O B-ENT B-ENT
+Se administra paracetamol cada ocho horas,O O B-ENT O O O
+Antecedente de asma infantil,O O B-ENT B-ENT
+Ecografía abdominal solicitada,B-ENT B-ENT O
+El paciente tiene diabetes mellitus,O O O B-ENT I-ENT
+Se prescribió ibuprofeno 200 mg,O O B-ENT O O
+Presenta dolor torácico y fiebre,O B-ENT I-ENT O B-ENT
+Alergia a penicilina confirmada,B-ENT O B-ENT O
+Se indicó radiografía de tórax,O O B-ENT O B-ENT
+Hipertensión controlada con losartán,B-ENT O O B-ENT
+Glucosa en sangre elevada,B-ENT O B-ENT B-ENT
+Se administra paracetamol cada ocho horas,O O B-ENT O O O
+Antecedente de asma infantil,O O B-ENT B-ENT
+Ecografía abdominal solicitada,B-ENT B-ENT O
+El paciente tiene diabetes mellitus,O O O B-ENT I-ENT
+Se prescribió ibuprofeno 200 mg,O O B-ENT O O
+Presenta dolor torácico y fiebre,O B-ENT I-ENT O B-ENT
+Alergia a penicilina confirmada,B-ENT O B-ENT O
+Se indicó radiografía de tórax,O O B-ENT O B-ENT
+Hipertensión controlada con losartán,B-ENT O O B-ENT
+Glucosa en sangre elevada,B-ENT O B-ENT B-ENT
+Se administra paracetamol cada ocho horas,O O B-ENT O O O
+Antecedente de asma infantil,O O B-ENT B-ENT
+Ecografía abdominal solicitada,B-ENT B-ENT O
+El paciente tiene diabetes mellitus,O O O B-ENT I-ENT
+Se prescribió ibuprofeno 200 mg,O O B-ENT O O
+Presenta dolor torácico y fiebre,O B-ENT I-ENT O B-ENT
+Alergia a penicilina confirmada,B-ENT O B-ENT O
+Se indicó radiografía de tórax,O O B-ENT O B-ENT
+Hipertensión controlada con losartán,B-ENT O O B-ENT
+Glucosa en sangre elevada,B-ENT O B-ENT B-ENT
+Se administra paracetamol cada ocho horas,O O B-ENT O O O
+Antecedente de asma infantil,O O B-ENT B-ENT
+Ecografía abdominal solicitada,B-ENT B-ENT O
+El paciente tiene diabetes mellitus,O O O B-ENT I-ENT
+Se prescribió ibuprofeno 200 mg,O O B-ENT O O
+Presenta dolor torácico y fiebre,O B-ENT I-ENT O B-ENT
+Alergia a penicilina confirmada,B-ENT O B-ENT O
+Se indicó radiografía de tórax,O O B-ENT O B-ENT
+Hipertensión controlada con losartán,B-ENT O O B-ENT
+Glucosa en sangre elevada,B-ENT O B-ENT B-ENT
+Se administra paracetamol cada ocho horas,O O B-ENT O O O
+Antecedente de asma infantil,O O B-ENT B-ENT
+Ecografía abdominal solicitada,B-ENT B-ENT O

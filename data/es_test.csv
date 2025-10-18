@@ -1,0 +1,21 @@
+tokens,labels
+Paciente con migraña severa,O O B-ENT B-ENT
+Infección respiratoria aguda tratada con amoxicilina,B-ENT B-ENT B-ENT O O O B-ENT
+Dosis de insulina ajustada,B-ENT O B-ENT O
+Gripe confirmada por prueba rápida,B-ENT O O B-ENT B-ENT
+Hemorragia nasal leve,B-ENT B-ENT B-ENT
+Paciente con migraña severa,O O B-ENT B-ENT
+Infección respiratoria aguda tratada con amoxicilina,B-ENT B-ENT B-ENT O O O B-ENT
+Dosis de insulina ajustada,B-ENT O B-ENT O
+Gripe confirmada por prueba rápida,B-ENT O O B-ENT B-ENT
+Hemorragia nasal leve,B-ENT B-ENT B-ENT
+Paciente con migraña severa,O O B-ENT B-ENT
+Infección respiratoria aguda tratada con amoxicilina,B-ENT B-ENT B-ENT O O O B-ENT
+Dosis de insulina ajustada,B-ENT O B-ENT O
+Gripe confirmada por prueba rápida,B-ENT O O B-ENT B-ENT
+Hemorragia nasal leve,B-ENT B-ENT B-ENT
+Paciente con migraña severa,O O B-ENT B-ENT
+Infección respiratoria aguda tratada con amoxicilina,B-ENT B-ENT B-ENT O O O B-ENT
+Dosis de insulina ajustada,B-ENT O B-ENT O
+Gripe confirmada por prueba rápida,B-ENT O O B-ENT B-ENT
+Hemorragia nasal leve,B-ENT B-ENT B-ENT
